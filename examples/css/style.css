@@ -9,6 +9,7 @@
   display: flex;
   bottom: 3%;
   left: 3%;
+  z-index: 12;
 }
 
 .actions .button {
